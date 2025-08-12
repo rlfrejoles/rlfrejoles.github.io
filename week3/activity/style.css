@@ -1,0 +1,60 @@
+body{
+    background-color:#16365d;
+    color: white;
+}
+.h1insert{
+    text-align:right;
+    color: white;
+}
+.h2media{
+    text-align:center;
+    color:red;
+}
+.li{
+    color:red;
+}
+.l2{
+    color:purple;
+}
+.col{
+    color:red;
+    text-decoration:underline;
+}
+.yellow{
+    color:green;
+}
+.p2{
+    color:blue;
+}
+.p2{
+    color:green;
+}
+.p1red{
+    color:red;
+}
+.h1{
+    color:blue;
+}
+.p1{
+
+    background-color:green;
+    color:black;
+}
+.h1format{
+    background-color:black;  
+    width:50%;
+}
+.h2controls{
+    color:lightgreen;
+}
+.p1black{
+    background-color:black;
+}
+.h3yellow{
+    color:yellow;
+    text-decoration:underline;
+    width:25%
+}
+.red{
+    background-color:red;
+}   
