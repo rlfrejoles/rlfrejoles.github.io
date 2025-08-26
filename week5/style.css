@@ -1,0 +1,40 @@
+.card{
+   width:25%;
+    border-radius:10px;
+    padding:20px;
+    box-shadow: 0px -1px 14px #888888;
+
+}
+
+h2, p{
+    margin: 0;
+}
+
+.main{
+    display: flex;
+}
+    
+
+.card-header{
+    display : flex;
+}
+
+    .card-header{
+        border-bottom: 1px solid;
+        margin-bottom: 10px;
+        padding-bottom: 10px;
+    }
+
+
+.btn{
+    border:none;
+    background-color: blueviolet;
+    color: white;
+    padding: 20px 10px;
+    border-radius: 100px;
+}
+
+.btn:hover{
+    background-color: purple;
+    cursor: pointer;
+}
